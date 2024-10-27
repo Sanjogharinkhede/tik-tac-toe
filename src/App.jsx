@@ -1,10 +1,11 @@
-
+import './custom.scss';
+import { Base } from "./component/Base.jsx";
 function App() {
-  
-
   return (
-    <h1>React Tic-Tac-Toe</h1>
-  )
+    <>
+      <Base />
+    </>
+  );
 }
 
-export default App
+export default App;
