@@ -1,6 +1,6 @@
-export  const Main = () => (
+export  const Main = ({children}) => (
   <>
-    <main>Main</main>
+    <main>{children}</main>
   </>
 );
 

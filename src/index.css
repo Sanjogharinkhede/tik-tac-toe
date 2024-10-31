@@ -1,6 +1,6 @@
  @import url("https://fonts.googleapis.com/css2?family=Caprasimo&family=Roboto+Slab:wght@400;700&display=swap");
 
-* {
+/* * {
   box-sizing: border-box;
 }
 
@@ -24,7 +24,8 @@ body {
 .text-primary{
   color: #f2cb57 !important;
   font-weight: 700;
-}
+} */
+
 /*
 header {
   text-align: center;
@@ -346,3 +347,6 @@ Fancy animation for showing the "Game Over" element
     transform: scale(1);
   }
 } */
+ .bg-image {
+   background-image: url(https://images.unsplash.com/photo-1520769945061-0a448c463865?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80&#39;);
+ }
